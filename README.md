@@ -1,2 +1,1 @@
-# CodesForMirea
-всякие работы на магистратуре
+VkFriends code for Mirea
